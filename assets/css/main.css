@@ -1267,9 +1267,43 @@ section,
   color: var(--accent-color);
 }
 
-/*--------------------------------------------------------------
-# Starter Section Section
---------------------------------------------------------------*/
-.starter-section {
-  /* Add your styles here */
+
+.projectdescribe {
+  display: flex;
+  align-items: flex-start;
+  gap: 15px;
+  flex-wrap: nowrap; /* mantém lado a lado */
+}
+
+.imgproject img {
+  max-width: 400px;
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  flex-shrink: 0; /* não deixa a imagem encolher */
+}
+
+.explication {
+  flex: 1;
+  min-width: 250px;
+  margin: 0;
+  text-align: justify;
+}
+
+/* Responsividade para telas pequenas */
+@media (max-width: 768px) {
+  .projectdescribe {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .imgproject img {
+    max-width: 100%;
+  }
+  
+  .explication {
+    text-align: justify;
+    margin-top: 10px;
+  }
 }
