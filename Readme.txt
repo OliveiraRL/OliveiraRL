@@ -1,6 +1,11 @@
-Ola sou a Mariana Lima, esse é um portifolio pessoal de teste para aprendizado, baseado no trabalo :
+Ola sou a Mariana Lima, esse é um portifolio pessoal de teste para aprendizado:
 
-Thanks for downloading this template!
+https://oliveirarl.github.io/OliveiraRL/#
+
+
+baseado no trabalo :
+
+
 
 Template Name: iPortfolio
 Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
