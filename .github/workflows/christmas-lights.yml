@@ -1,36 +1,36 @@
-name: Christmas Lights Contribution Graph
+name: Christmas Lights Grid
 
 on:
-  push:
-    branches:
-      - main
   workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"   # a cada 6 horas
+  push:
+    branches: [main]
 
 jobs:
-  generate:
+  lights:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ Faz checkout do repositório com todo o histórico
-      - name: Checkout do repositório
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      # 2️⃣ Gera o SVG do gráfico de contribuições com animação natalina
-      - name: Gerar animação de luzes de Natal
-        uses: lowlighter/metrics@latest
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: ${{ github.repository_owner }}
-          template: classic
-          config_display: large
-          config_colors: "#0a0a0a,#ff0000,#00ff00,#ffd700,#ffffff" # cores estilo luzes de Natal
-          config_animations: true
-          filename: christmas-lights.svg
+          python-version: "3.11"
 
-      # 3️⃣ Commit e push do SVG gerado
-      - name: Commit e push do SVG
+      - name: Install deps
+        run: pip install requests
+
+      - name: Generate Christmas Lights SVG
+        run: python scripts/generate_lights.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit SVG
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "🎄 Atualiza animação de luzes de Natal"
+          commit_message: "🎄 Atualiza pisca-pisca de contribuições"
+          file_pattern: christmas-lights.svg
