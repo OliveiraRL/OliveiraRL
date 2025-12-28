@@ -1,64 +1,78 @@
-import random
+import os
 import requests
+import random
 
 USERNAME = "OliveiraRL"
-TOKEN = "${{ secrets.GITHUB_TOKEN }}"
+TOKEN = os.getenv("PAT_GITHUB")
 OUTPUT = "christmas-lights.svg"
 
-COLORS = ["#ff0000", "#00ff00", "#ffd700", "#ffffff"]
-BG = "#0a0a0a"
-SIZE = 11
-GAP = 3
+if not TOKEN:
+    raise RuntimeError("PAT_GITHUB não encontrado")
 
-query = """
-query($user:String!) {
-  user(login:$user) {
-    contributionsCollection {
-      contributionCalendar {
-        weeks {
-          contributionDays {
+query = f"""
+{{
+  user(login: "{USERNAME}") {{
+    contributionsCollection {{
+      contributionCalendar {{
+        weeks {{
+          contributionDays {{
             contributionCount
-          }
-        }
-      }
-    }
-  }
-}
+          }}
+        }}
+      }}
+    }}
+  }}
+}}
 """
 
-r = requests.post(
+headers = {
+    "Authorization": f"Bearer {TOKEN}",
+    "Content-Type": "application/json"
+}
+
+response = requests.post(
     "https://api.github.com/graphql",
-    json={"query": query, "variables": {"user": USERNAME}},
-    headers={"Authorization": f"Bearer {TOKEN}"}
+    json={"query": query},
+    headers=headers
 )
 
-weeks = r.json()["data"]["user"]["contributionsCollection"]["contributionCalendar"]["weeks"]
+data = response.json()
+
+if "errors" in data:
+    raise RuntimeError(data["errors"])
+
+weeks = data["data"]["user"]["contributionsCollection"]["contributionCalendar"]["weeks"]
+
+colors = ["#ff0000", "#00ff00", "#ffd700", "#ffffff"]
+off = "#1a1a1a"
+
+size = 12
+gap = 3
 
 svg = [
     '<svg xmlns="http://www.w3.org/2000/svg" width="900" height="140">',
-    f'<rect width="100%" height="100%" fill="{BG}"/>'
+    '<rect width="100%" height="100%" fill="#0a0a0a"/>'
 ]
 
 x = 10
 for week in weeks:
     y = 10
     for day in week["contributionDays"]:
-        color = random.choice(COLORS) if day["contributionCount"] > 0 else BG
-        delay = round(random.uniform(0, 2), 2)
+        if day["contributionCount"] > 0:
+            color = random.choice(colors)
+        else:
+            color = off
 
-        svg.append(f'''
-        <rect x="{x}" y="{y}" width="{SIZE}" height="{SIZE}" rx="3" fill="{color}">
-          <animate attributeName="opacity"
-                   values="1;0.3;1"
-                   dur="1.5s"
-                   begin="{delay}s"
-                   repeatCount="indefinite"/>
-        </rect>
-        ''')
-        y += SIZE + GAP
-    x += SIZE + GAP
+        svg.append(
+            f'<circle cx="{x}" cy="{y}" r="5" fill="{color}"/>'
+        )
+        y += size + gap
+    x += size + gap
 
 svg.append("</svg>")
 
 with open(OUTPUT, "w") as f:
     f.write("\n".join(svg))
+
+print("🎄 christmas-lights.svg gerado com sucesso")
+
