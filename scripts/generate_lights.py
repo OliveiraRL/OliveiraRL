@@ -3,7 +3,8 @@ import requests
 import random
 
 USERNAME = "OliveiraRL"
-TOKEN = os.getenv("PAT_GITHUB")
+TOKEN = os.getenv("GITHUB_TOKEN")
+
 OUTPUT = "christmas-lights.svg"
 
 if not TOKEN:
