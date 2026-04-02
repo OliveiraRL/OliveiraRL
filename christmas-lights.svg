@@ -1134,7 +1134,7 @@
         </circle>
         
 
-        <circle cx="200" cy="80" r="7" fill="#00ff00" opacity="0.25" filter="url(#glow)">
+        <circle cx="200" cy="80" r="7" fill="#ffd700" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -1142,7 +1142,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="200" cy="80" r="4" fill="#00ff00">
+        <circle cx="200" cy="80" r="4" fill="#ffd700">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -1151,7 +1151,7 @@
         </circle>
         
 
-        <circle cx="200" cy="100" r="7" fill="#ff0000" opacity="0.25" filter="url(#glow)">
+        <circle cx="200" cy="100" r="7" fill="#ffffff" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -1159,7 +1159,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="200" cy="100" r="4" fill="#ff0000">
+        <circle cx="200" cy="100" r="4" fill="#ffffff">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -1542,7 +1542,7 @@
         </circle>
         
 
-        <circle cx="260" cy="140" r="7" fill="#ff0000" opacity="0.25" filter="url(#glow)">
+        <circle cx="260" cy="140" r="7" fill="#ffffff" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -1550,7 +1550,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="260" cy="140" r="4" fill="#ff0000">
+        <circle cx="260" cy="140" r="4" fill="#ffffff">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -2103,7 +2103,7 @@
         </circle>
         
 
-        <circle cx="360" cy="100" r="7" fill="#ffd700" opacity="0.25" filter="url(#glow)">
+        <circle cx="360" cy="100" r="7" fill="#ffffff" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -2111,7 +2111,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="360" cy="100" r="4" fill="#ffd700">
+        <circle cx="360" cy="100" r="4" fill="#ffffff">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -2120,7 +2120,7 @@
         </circle>
         
 
-        <circle cx="360" cy="120" r="7" fill="#00ff00" opacity="0.25" filter="url(#glow)">
+        <circle cx="360" cy="120" r="7" fill="#ffd700" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -2128,7 +2128,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="360" cy="120" r="4" fill="#00ff00">
+        <circle cx="360" cy="120" r="4" fill="#ffd700">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -2239,7 +2239,7 @@
         </circle>
         
 
-        <circle cx="380" cy="120" r="7" fill="#ffd700" opacity="0.25" filter="url(#glow)">
+        <circle cx="380" cy="120" r="7" fill="#00ff00" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -2247,7 +2247,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="380" cy="120" r="4" fill="#ffd700">
+        <circle cx="380" cy="120" r="4" fill="#00ff00">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -2273,7 +2273,7 @@
         </circle>
         
 
-        <circle cx="400" cy="20" r="7" fill="#ff0000" opacity="0.25" filter="url(#glow)">
+        <circle cx="400" cy="20" r="7" fill="#00ff00" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -2281,7 +2281,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="400" cy="20" r="4" fill="#ff0000">
+        <circle cx="400" cy="20" r="4" fill="#00ff00">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -2324,7 +2324,7 @@
         </circle>
         
 
-        <circle cx="400" cy="80" r="7" fill="#ffd700" opacity="0.25" filter="url(#glow)">
+        <circle cx="400" cy="80" r="7" fill="#ff0000" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -2332,7 +2332,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="400" cy="80" r="4" fill="#ffd700">
+        <circle cx="400" cy="80" r="4" fill="#ff0000">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -2341,7 +2341,7 @@
         </circle>
         
 
-        <circle cx="400" cy="100" r="7" fill="#ff0000" opacity="0.25" filter="url(#glow)">
+        <circle cx="400" cy="100" r="7" fill="#ffffff" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -2349,7 +2349,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="400" cy="100" r="4" fill="#ff0000">
+        <circle cx="400" cy="100" r="4" fill="#ffffff">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -4364,7 +4364,7 @@
         </circle>
         
 
-        <circle cx="740" cy="100" r="7" fill="#ffd700" opacity="0.25" filter="url(#glow)">
+        <circle cx="740" cy="100" r="7" fill="#ffffff" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -4372,7 +4372,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="740" cy="100" r="4" fill="#ffd700">
+        <circle cx="740" cy="100" r="4" fill="#ffffff">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -4636,7 +4636,7 @@
         </circle>
         
 
-        <circle cx="780" cy="140" r="7" fill="#ffffff" opacity="0.25" filter="url(#glow)">
+        <circle cx="780" cy="140" r="7" fill="#ff0000" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -4644,7 +4644,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="780" cy="140" r="4" fill="#ffffff">
+        <circle cx="780" cy="140" r="4" fill="#ff0000">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -4653,7 +4653,7 @@
         </circle>
         
 
-        <circle cx="800" cy="20" r="7" fill="#ffd700" opacity="0.25" filter="url(#glow)">
+        <circle cx="800" cy="20" r="7" fill="#ff0000" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -4661,7 +4661,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="800" cy="20" r="4" fill="#ffd700">
+        <circle cx="800" cy="20" r="4" fill="#ff0000">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -4687,7 +4687,7 @@
         </circle>
         
 
-        <circle cx="800" cy="60" r="7" fill="#ff0000" opacity="0.25" filter="url(#glow)">
+        <circle cx="800" cy="60" r="7" fill="#ffffff" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -4695,7 +4695,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="800" cy="60" r="4" fill="#ff0000">
+        <circle cx="800" cy="60" r="4" fill="#ffffff">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -4704,7 +4704,7 @@
         </circle>
         
 
-        <circle cx="800" cy="80" r="7" fill="#ffffff" opacity="0.25" filter="url(#glow)">
+        <circle cx="800" cy="80" r="7" fill="#ff0000" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -4712,7 +4712,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="800" cy="80" r="4" fill="#ffffff">
+        <circle cx="800" cy="80" r="4" fill="#ff0000">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -4721,7 +4721,7 @@
         </circle>
         
 
-        <circle cx="800" cy="100" r="7" fill="#00ff00" opacity="0.25" filter="url(#glow)">
+        <circle cx="800" cy="100" r="7" fill="#ffffff" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -4729,7 +4729,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="800" cy="100" r="4" fill="#00ff00">
+        <circle cx="800" cy="100" r="4" fill="#ffffff">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -4755,7 +4755,7 @@
         </circle>
         
 
-        <circle cx="800" cy="140" r="7" fill="#ffd700" opacity="0.25" filter="url(#glow)">
+        <circle cx="800" cy="140" r="7" fill="#ff0000" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -4763,7 +4763,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="800" cy="140" r="4" fill="#ffd700">
+        <circle cx="800" cy="140" r="4" fill="#ff0000">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -4772,7 +4772,7 @@
         </circle>
         
 
-        <circle cx="820" cy="20" r="7" fill="#ffd700" opacity="0.25" filter="url(#glow)">
+        <circle cx="820" cy="20" r="7" fill="#ffffff" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -4780,7 +4780,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="820" cy="20" r="4" fill="#ffd700">
+        <circle cx="820" cy="20" r="4" fill="#ffffff">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -4789,7 +4789,7 @@
         </circle>
         
 
-        <circle cx="820" cy="40" r="7" fill="#ffffff" opacity="0.25" filter="url(#glow)">
+        <circle cx="820" cy="40" r="7" fill="#00ff00" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -4797,7 +4797,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="820" cy="40" r="4" fill="#ffffff">
+        <circle cx="820" cy="40" r="4" fill="#00ff00">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -4806,7 +4806,7 @@
         </circle>
         
 
-        <circle cx="820" cy="60" r="7" fill="#ffffff" opacity="0.25" filter="url(#glow)">
+        <circle cx="820" cy="60" r="7" fill="#ffd700" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -4814,7 +4814,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="820" cy="60" r="4" fill="#ffffff">
+        <circle cx="820" cy="60" r="4" fill="#ffd700">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -4840,7 +4840,7 @@
         </circle>
         
 
-        <circle cx="820" cy="100" r="7" fill="#ff0000" opacity="0.25" filter="url(#glow)">
+        <circle cx="820" cy="100" r="7" fill="#00ff00" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -4848,7 +4848,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="820" cy="100" r="4" fill="#ff0000">
+        <circle cx="820" cy="100" r="4" fill="#00ff00">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -4857,7 +4857,7 @@
         </circle>
         
 
-        <circle cx="820" cy="120" r="7" fill="#ffffff" opacity="0.25" filter="url(#glow)">
+        <circle cx="820" cy="120" r="7" fill="#ffd700" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -4865,7 +4865,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="820" cy="120" r="4" fill="#ffffff">
+        <circle cx="820" cy="120" r="4" fill="#ffd700">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -4874,7 +4874,7 @@
         </circle>
         
 
-        <circle cx="820" cy="140" r="7" fill="#ffd700" opacity="0.25" filter="url(#glow)">
+        <circle cx="820" cy="140" r="7" fill="#ffffff" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -4882,7 +4882,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="820" cy="140" r="4" fill="#ffd700">
+        <circle cx="820" cy="140" r="4" fill="#ffffff">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -4891,7 +4891,7 @@
         </circle>
         
 
-        <circle cx="840" cy="20" r="7" fill="#ff0000" opacity="0.25" filter="url(#glow)">
+        <circle cx="840" cy="20" r="7" fill="#ffffff" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -4899,7 +4899,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="840" cy="20" r="4" fill="#ff0000">
+        <circle cx="840" cy="20" r="4" fill="#ffffff">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -4908,7 +4908,7 @@
         </circle>
         
 
-        <circle cx="840" cy="40" r="7" fill="#ff0000" opacity="0.25" filter="url(#glow)">
+        <circle cx="840" cy="40" r="7" fill="#ffffff" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -4916,7 +4916,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="840" cy="40" r="4" fill="#ff0000">
+        <circle cx="840" cy="40" r="4" fill="#ffffff">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -4925,7 +4925,7 @@
         </circle>
         
 
-        <circle cx="840" cy="60" r="7" fill="#ffd700" opacity="0.25" filter="url(#glow)">
+        <circle cx="840" cy="60" r="7" fill="#00ff00" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -4933,7 +4933,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="840" cy="60" r="4" fill="#ffd700">
+        <circle cx="840" cy="60" r="4" fill="#00ff00">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -4976,7 +4976,7 @@
         </circle>
         
 
-        <circle cx="840" cy="120" r="7" fill="#ffffff" opacity="0.25" filter="url(#glow)">
+        <circle cx="840" cy="120" r="7" fill="#ffd700" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -4984,7 +4984,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="840" cy="120" r="4" fill="#ffffff">
+        <circle cx="840" cy="120" r="4" fill="#ffd700">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -4993,7 +4993,7 @@
         </circle>
         
 
-        <circle cx="840" cy="140" r="7" fill="#ff0000" opacity="0.25" filter="url(#glow)">
+        <circle cx="840" cy="140" r="7" fill="#ffffff" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -5001,7 +5001,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="840" cy="140" r="4" fill="#ff0000">
+        <circle cx="840" cy="140" r="4" fill="#ffffff">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -5010,7 +5010,7 @@
         </circle>
         
 
-        <circle cx="860" cy="20" r="7" fill="#00ff00" opacity="0.25" filter="url(#glow)">
+        <circle cx="860" cy="20" r="7" fill="#ffffff" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -5018,7 +5018,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="860" cy="20" r="4" fill="#00ff00">
+        <circle cx="860" cy="20" r="4" fill="#ffffff">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -5027,7 +5027,7 @@
         </circle>
         
 
-        <circle cx="860" cy="40" r="7" fill="#ffd700" opacity="0.25" filter="url(#glow)">
+        <circle cx="860" cy="40" r="7" fill="#00ff00" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -5035,7 +5035,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="860" cy="40" r="4" fill="#ffd700">
+        <circle cx="860" cy="40" r="4" fill="#00ff00">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -5044,7 +5044,7 @@
         </circle>
         
 
-        <circle cx="860" cy="60" r="7" fill="#00ff00" opacity="0.25" filter="url(#glow)">
+        <circle cx="860" cy="60" r="7" fill="#ff0000" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -5052,7 +5052,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="860" cy="60" r="4" fill="#00ff00">
+        <circle cx="860" cy="60" r="4" fill="#ff0000">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -5061,7 +5061,7 @@
         </circle>
         
 
-        <circle cx="860" cy="80" r="7" fill="#00ff00" opacity="0.25" filter="url(#glow)">
+        <circle cx="860" cy="80" r="7" fill="#ff0000" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -5069,7 +5069,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="860" cy="80" r="4" fill="#00ff00">
+        <circle cx="860" cy="80" r="4" fill="#ff0000">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -5078,7 +5078,7 @@
         </circle>
         
 
-        <circle cx="860" cy="100" r="7" fill="#ff0000" opacity="0.25" filter="url(#glow)">
+        <circle cx="860" cy="100" r="7" fill="#00ff00" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -5086,7 +5086,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="860" cy="100" r="4" fill="#ff0000">
+        <circle cx="860" cy="100" r="4" fill="#00ff00">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -5112,7 +5112,7 @@
         </circle>
         
 
-        <circle cx="860" cy="140" r="7" fill="#ffd700" opacity="0.25" filter="url(#glow)">
+        <circle cx="860" cy="140" r="7" fill="#00ff00" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -5120,7 +5120,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="860" cy="140" r="4" fill="#ffd700">
+        <circle cx="860" cy="140" r="4" fill="#00ff00">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -5129,7 +5129,7 @@
         </circle>
         
 
-        <circle cx="880" cy="20" r="7" fill="#00ff00" opacity="0.25" filter="url(#glow)">
+        <circle cx="880" cy="20" r="7" fill="#ffd700" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -5137,7 +5137,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="880" cy="20" r="4" fill="#00ff00">
+        <circle cx="880" cy="20" r="4" fill="#ffd700">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -5146,7 +5146,7 @@
         </circle>
         
 
-        <circle cx="880" cy="40" r="7" fill="#ffffff" opacity="0.25" filter="url(#glow)">
+        <circle cx="880" cy="40" r="7" fill="#ffd700" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -5154,7 +5154,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="880" cy="40" r="4" fill="#ffffff">
+        <circle cx="880" cy="40" r="4" fill="#ffd700">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -5180,7 +5180,7 @@
         </circle>
         
 
-        <circle cx="880" cy="80" r="7" fill="#00ff00" opacity="0.25" filter="url(#glow)">
+        <circle cx="880" cy="80" r="7" fill="#ffffff" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -5188,7 +5188,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="880" cy="80" r="4" fill="#00ff00">
+        <circle cx="880" cy="80" r="4" fill="#ffffff">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -5197,7 +5197,7 @@
         </circle>
         
 
-        <circle cx="880" cy="100" r="7" fill="#ffd700" opacity="0.25" filter="url(#glow)">
+        <circle cx="880" cy="100" r="7" fill="#ff0000" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -5205,7 +5205,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="880" cy="100" r="4" fill="#ffd700">
+        <circle cx="880" cy="100" r="4" fill="#ff0000">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -5214,7 +5214,7 @@
         </circle>
         
 
-        <circle cx="880" cy="120" r="7" fill="#ff0000" opacity="0.25" filter="url(#glow)">
+        <circle cx="880" cy="120" r="7" fill="#00ff00" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -5222,7 +5222,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="880" cy="120" r="4" fill="#ff0000">
+        <circle cx="880" cy="120" r="4" fill="#00ff00">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -5231,7 +5231,7 @@
         </circle>
         
 
-        <circle cx="880" cy="140" r="7" fill="#ff0000" opacity="0.25" filter="url(#glow)">
+        <circle cx="880" cy="140" r="7" fill="#ffd700" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -5239,7 +5239,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="880" cy="140" r="4" fill="#ff0000">
+        <circle cx="880" cy="140" r="4" fill="#ffd700">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -5265,7 +5265,7 @@
         </circle>
         
 
-        <circle cx="900" cy="40" r="7" fill="#00ff00" opacity="0.25" filter="url(#glow)">
+        <circle cx="900" cy="40" r="7" fill="#ffd700" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -5273,7 +5273,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="900" cy="40" r="4" fill="#00ff00">
+        <circle cx="900" cy="40" r="4" fill="#ffd700">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -5282,7 +5282,7 @@
         </circle>
         
 
-        <circle cx="900" cy="60" r="7" fill="#ff0000" opacity="0.25" filter="url(#glow)">
+        <circle cx="900" cy="60" r="7" fill="#ffd700" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -5290,7 +5290,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="900" cy="60" r="4" fill="#ff0000">
+        <circle cx="900" cy="60" r="4" fill="#ffd700">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -5299,7 +5299,7 @@
         </circle>
         
 
-        <circle cx="900" cy="80" r="7" fill="#ffffff" opacity="0.25" filter="url(#glow)">
+        <circle cx="900" cy="80" r="7" fill="#ff0000" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -5307,7 +5307,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="900" cy="80" r="4" fill="#ffffff">
+        <circle cx="900" cy="80" r="4" fill="#ff0000">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -5316,7 +5316,7 @@
         </circle>
         
 
-        <circle cx="900" cy="100" r="7" fill="#ffd700" opacity="0.25" filter="url(#glow)">
+        <circle cx="900" cy="100" r="7" fill="#ff0000" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -5324,7 +5324,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="900" cy="100" r="4" fill="#ffd700">
+        <circle cx="900" cy="100" r="4" fill="#ff0000">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -5333,7 +5333,7 @@
         </circle>
         
 
-        <circle cx="900" cy="120" r="7" fill="#ff0000" opacity="0.25" filter="url(#glow)">
+        <circle cx="900" cy="120" r="7" fill="#ffffff" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -5341,7 +5341,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="900" cy="120" r="4" fill="#ff0000">
+        <circle cx="900" cy="120" r="4" fill="#ffffff">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -5350,7 +5350,7 @@
         </circle>
         
 
-        <circle cx="900" cy="140" r="7" fill="#ff0000" opacity="0.25" filter="url(#glow)">
+        <circle cx="900" cy="140" r="7" fill="#ffffff" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -5358,7 +5358,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="900" cy="140" r="4" fill="#ff0000">
+        <circle cx="900" cy="140" r="4" fill="#ffffff">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -5384,7 +5384,7 @@
         </circle>
         
 
-        <circle cx="920" cy="40" r="7" fill="#ffffff" opacity="0.25" filter="url(#glow)">
+        <circle cx="920" cy="40" r="7" fill="#00ff00" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -5392,7 +5392,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="920" cy="40" r="4" fill="#ffffff">
+        <circle cx="920" cy="40" r="4" fill="#00ff00">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -5401,7 +5401,7 @@
         </circle>
         
 
-        <circle cx="920" cy="60" r="7" fill="#ffd700" opacity="0.25" filter="url(#glow)">
+        <circle cx="920" cy="60" r="7" fill="#ffffff" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -5409,7 +5409,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="920" cy="60" r="4" fill="#ffd700">
+        <circle cx="920" cy="60" r="4" fill="#ffffff">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -5435,7 +5435,7 @@
         </circle>
         
 
-        <circle cx="920" cy="100" r="7" fill="#00ff00" opacity="0.25" filter="url(#glow)">
+        <circle cx="920" cy="100" r="7" fill="#ffd700" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -5443,7 +5443,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="920" cy="100" r="4" fill="#00ff00">
+        <circle cx="920" cy="100" r="4" fill="#ffd700">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -5452,7 +5452,7 @@
         </circle>
         
 
-        <circle cx="920" cy="120" r="7" fill="#ffd700" opacity="0.25" filter="url(#glow)">
+        <circle cx="920" cy="120" r="7" fill="#00ff00" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -5460,7 +5460,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="920" cy="120" r="4" fill="#ffd700">
+        <circle cx="920" cy="120" r="4" fill="#00ff00">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -5486,7 +5486,7 @@
         </circle>
         
 
-        <circle cx="940" cy="20" r="7" fill="#00ff00" opacity="0.25" filter="url(#glow)">
+        <circle cx="940" cy="20" r="7" fill="#ffffff" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -5494,7 +5494,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="940" cy="20" r="4" fill="#00ff00">
+        <circle cx="940" cy="20" r="4" fill="#ffffff">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -5503,7 +5503,7 @@
         </circle>
         
 
-        <circle cx="940" cy="40" r="7" fill="#ffffff" opacity="0.25" filter="url(#glow)">
+        <circle cx="940" cy="40" r="7" fill="#00ff00" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -5511,7 +5511,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="940" cy="40" r="4" fill="#ffffff">
+        <circle cx="940" cy="40" r="4" fill="#00ff00">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -5520,7 +5520,7 @@
         </circle>
         
 
-        <circle cx="940" cy="60" r="7" fill="#ff0000" opacity="0.25" filter="url(#glow)">
+        <circle cx="940" cy="60" r="7" fill="#ffd700" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -5528,7 +5528,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="940" cy="60" r="4" fill="#ff0000">
+        <circle cx="940" cy="60" r="4" fill="#ffd700">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -5537,7 +5537,7 @@
         </circle>
         
 
-        <circle cx="940" cy="80" r="7" fill="#00ff00" opacity="0.25" filter="url(#glow)">
+        <circle cx="940" cy="80" r="7" fill="#ff0000" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -5545,7 +5545,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="940" cy="80" r="4" fill="#00ff00">
+        <circle cx="940" cy="80" r="4" fill="#ff0000">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -5554,7 +5554,7 @@
         </circle>
         
 
-        <circle cx="940" cy="100" r="7" fill="#00ff00" opacity="0.25" filter="url(#glow)">
+        <circle cx="940" cy="100" r="7" fill="#ffd700" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -5562,7 +5562,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="940" cy="100" r="4" fill="#00ff00">
+        <circle cx="940" cy="100" r="4" fill="#ffd700">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -5571,7 +5571,7 @@
         </circle>
         
 
-        <circle cx="940" cy="120" r="7" fill="#ff0000" opacity="0.25" filter="url(#glow)">
+        <circle cx="940" cy="120" r="7" fill="#ffffff" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -5579,7 +5579,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="940" cy="120" r="4" fill="#ff0000">
+        <circle cx="940" cy="120" r="4" fill="#ffffff">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -5588,7 +5588,7 @@
         </circle>
         
 
-        <circle cx="940" cy="140" r="7" fill="#ffffff" opacity="0.25" filter="url(#glow)">
+        <circle cx="940" cy="140" r="7" fill="#ffd700" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -5596,7 +5596,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="940" cy="140" r="4" fill="#ffffff">
+        <circle cx="940" cy="140" r="4" fill="#ffd700">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -5605,7 +5605,7 @@
         </circle>
         
 
-        <circle cx="960" cy="20" r="7" fill="#ffffff" opacity="0.25" filter="url(#glow)">
+        <circle cx="960" cy="20" r="7" fill="#ff0000" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -5613,7 +5613,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="960" cy="20" r="4" fill="#ffffff">
+        <circle cx="960" cy="20" r="4" fill="#ff0000">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -5639,7 +5639,7 @@
         </circle>
         
 
-        <circle cx="960" cy="60" r="7" fill="#ff0000" opacity="0.25" filter="url(#glow)">
+        <circle cx="960" cy="60" r="7" fill="#ffd700" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -5647,7 +5647,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="960" cy="60" r="4" fill="#ff0000">
+        <circle cx="960" cy="60" r="4" fill="#ffd700">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -5656,7 +5656,7 @@
         </circle>
         
 
-        <circle cx="960" cy="80" r="7" fill="#ffffff" opacity="0.25" filter="url(#glow)">
+        <circle cx="960" cy="80" r="7" fill="#00ff00" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -5664,7 +5664,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="960" cy="80" r="4" fill="#ffffff">
+        <circle cx="960" cy="80" r="4" fill="#00ff00">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -5673,7 +5673,7 @@
         </circle>
         
 
-        <circle cx="960" cy="100" r="7" fill="#ffd700" opacity="0.25" filter="url(#glow)">
+        <circle cx="960" cy="100" r="7" fill="#ff0000" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -5681,7 +5681,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="960" cy="100" r="4" fill="#ffd700">
+        <circle cx="960" cy="100" r="4" fill="#ff0000">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -5690,7 +5690,7 @@
         </circle>
         
 
-        <circle cx="960" cy="120" r="7" fill="#ffd700" opacity="0.25" filter="url(#glow)">
+        <circle cx="960" cy="120" r="7" fill="#ff0000" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -5698,7 +5698,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="960" cy="120" r="4" fill="#ffd700">
+        <circle cx="960" cy="120" r="4" fill="#ff0000">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -5707,7 +5707,7 @@
         </circle>
         
 
-        <circle cx="960" cy="140" r="7" fill="#00ff00" opacity="0.25" filter="url(#glow)">
+        <circle cx="960" cy="140" r="7" fill="#ff0000" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -5715,7 +5715,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="960" cy="140" r="4" fill="#00ff00">
+        <circle cx="960" cy="140" r="4" fill="#ff0000">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -5724,7 +5724,7 @@
         </circle>
         
 
-        <circle cx="980" cy="20" r="7" fill="#ffd700" opacity="0.25" filter="url(#glow)">
+        <circle cx="980" cy="20" r="7" fill="#ffffff" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -5732,7 +5732,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="980" cy="20" r="4" fill="#ffd700">
+        <circle cx="980" cy="20" r="4" fill="#ffffff">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -5758,7 +5758,7 @@
         </circle>
         
 
-        <circle cx="980" cy="60" r="7" fill="#ffd700" opacity="0.25" filter="url(#glow)">
+        <circle cx="980" cy="60" r="7" fill="#00ff00" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -5766,7 +5766,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="980" cy="60" r="4" fill="#ffd700">
+        <circle cx="980" cy="60" r="4" fill="#00ff00">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -5775,7 +5775,7 @@
         </circle>
         
 
-        <circle cx="980" cy="80" r="7" fill="#ff0000" opacity="0.25" filter="url(#glow)">
+        <circle cx="980" cy="80" r="7" fill="#ffd700" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -5783,7 +5783,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="980" cy="80" r="4" fill="#ff0000">
+        <circle cx="980" cy="80" r="4" fill="#ffd700">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -5809,7 +5809,7 @@
         </circle>
         
 
-        <circle cx="980" cy="120" r="7" fill="#ffd700" opacity="0.25" filter="url(#glow)">
+        <circle cx="980" cy="120" r="7" fill="#00ff00" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -5817,7 +5817,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="980" cy="120" r="4" fill="#ffd700">
+        <circle cx="980" cy="120" r="4" fill="#00ff00">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -5826,7 +5826,7 @@
         </circle>
         
 
-        <circle cx="980" cy="140" r="7" fill="#00ff00" opacity="0.25" filter="url(#glow)">
+        <circle cx="980" cy="140" r="7" fill="#ff0000" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -5834,7 +5834,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="980" cy="140" r="4" fill="#00ff00">
+        <circle cx="980" cy="140" r="4" fill="#ff0000">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -5843,7 +5843,7 @@
         </circle>
         
 
-        <circle cx="1000" cy="20" r="7" fill="#ffd700" opacity="0.25" filter="url(#glow)">
+        <circle cx="1000" cy="20" r="7" fill="#ffffff" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -5851,7 +5851,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="1000" cy="20" r="4" fill="#ffd700">
+        <circle cx="1000" cy="20" r="4" fill="#ffffff">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -5877,7 +5877,7 @@
         </circle>
         
 
-        <circle cx="1000" cy="60" r="7" fill="#ffd700" opacity="0.25" filter="url(#glow)">
+        <circle cx="1000" cy="60" r="7" fill="#00ff00" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -5885,7 +5885,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="1000" cy="60" r="4" fill="#ffd700">
+        <circle cx="1000" cy="60" r="4" fill="#00ff00">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -5928,7 +5928,7 @@
         </circle>
         
 
-        <circle cx="1000" cy="120" r="7" fill="#ffffff" opacity="0.25" filter="url(#glow)">
+        <circle cx="1000" cy="120" r="7" fill="#ff0000" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -5936,7 +5936,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="1000" cy="120" r="4" fill="#ffffff">
+        <circle cx="1000" cy="120" r="4" fill="#ff0000">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -5945,7 +5945,7 @@
         </circle>
         
 
-        <circle cx="1000" cy="140" r="7" fill="#ff0000" opacity="0.25" filter="url(#glow)">
+        <circle cx="1000" cy="140" r="7" fill="#ffd700" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -5953,7 +5953,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="1000" cy="140" r="4" fill="#ff0000">
+        <circle cx="1000" cy="140" r="4" fill="#ffd700">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -5979,7 +5979,7 @@
         </circle>
         
 
-        <circle cx="1020" cy="40" r="7" fill="#00ff00" opacity="0.25" filter="url(#glow)">
+        <circle cx="1020" cy="40" r="7" fill="#ffffff" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -5987,7 +5987,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="1020" cy="40" r="4" fill="#00ff00">
+        <circle cx="1020" cy="40" r="4" fill="#ffffff">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -6030,7 +6030,7 @@
         </circle>
         
 
-        <circle cx="1020" cy="100" r="7" fill="#ffffff" opacity="0.25" filter="url(#glow)">
+        <circle cx="1020" cy="100" r="7" fill="#ff0000" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -6038,7 +6038,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="1020" cy="100" r="4" fill="#ffffff">
+        <circle cx="1020" cy="100" r="4" fill="#ff0000">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -6064,7 +6064,7 @@
         </circle>
         
 
-        <circle cx="1020" cy="140" r="7" fill="#ffffff" opacity="0.25" filter="url(#glow)">
+        <circle cx="1020" cy="140" r="7" fill="#ff0000" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -6072,7 +6072,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="1020" cy="140" r="4" fill="#ffffff">
+        <circle cx="1020" cy="140" r="4" fill="#ff0000">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -6115,7 +6115,7 @@
         </circle>
         
 
-        <circle cx="1040" cy="60" r="7" fill="#ff0000" opacity="0.25" filter="url(#glow)">
+        <circle cx="1040" cy="60" r="7" fill="#ffffff" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -6123,7 +6123,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="1040" cy="60" r="4" fill="#ff0000">
+        <circle cx="1040" cy="60" r="4" fill="#ffffff">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -6132,7 +6132,7 @@
         </circle>
         
 
-        <circle cx="1040" cy="80" r="7" fill="#ff0000" opacity="0.25" filter="url(#glow)">
+        <circle cx="1040" cy="80" r="7" fill="#ffffff" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -6140,7 +6140,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="1040" cy="80" r="4" fill="#ff0000">
+        <circle cx="1040" cy="80" r="4" fill="#ffffff">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -6166,7 +6166,7 @@
         </circle>
         
 
-        <circle cx="1040" cy="120" r="7" fill="#ffffff" opacity="0.25" filter="url(#glow)">
+        <circle cx="1040" cy="120" r="7" fill="#ff0000" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -6174,7 +6174,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="1040" cy="120" r="4" fill="#ffffff">
+        <circle cx="1040" cy="120" r="4" fill="#ff0000">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -6183,7 +6183,7 @@
         </circle>
         
 
-        <circle cx="1040" cy="140" r="7" fill="#ff0000" opacity="0.25" filter="url(#glow)">
+        <circle cx="1040" cy="140" r="7" fill="#00ff00" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -6191,7 +6191,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="1040" cy="140" r="4" fill="#ff0000">
+        <circle cx="1040" cy="140" r="4" fill="#00ff00">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -6200,7 +6200,7 @@
         </circle>
         
 
-        <circle cx="1060" cy="20" r="7" fill="#ff0000" opacity="0.25" filter="url(#glow)">
+        <circle cx="1060" cy="20" r="7" fill="#00ff00" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -6208,7 +6208,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="1060" cy="20" r="4" fill="#ff0000">
+        <circle cx="1060" cy="20" r="4" fill="#00ff00">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -6217,7 +6217,7 @@
         </circle>
         
 
-        <circle cx="1060" cy="40" r="7" fill="#ff0000" opacity="0.25" filter="url(#glow)">
+        <circle cx="1060" cy="40" r="7" fill="#ffffff" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -6225,7 +6225,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="1060" cy="40" r="4" fill="#ff0000">
+        <circle cx="1060" cy="40" r="4" fill="#ffffff">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -6234,7 +6234,7 @@
         </circle>
         
 
-        <circle cx="1060" cy="60" r="7" fill="#ffffff" opacity="0.25" filter="url(#glow)">
+        <circle cx="1060" cy="60" r="7" fill="#ff0000" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -6242,7 +6242,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="1060" cy="60" r="4" fill="#ffffff">
+        <circle cx="1060" cy="60" r="4" fill="#ff0000">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -6251,7 +6251,7 @@
         </circle>
         
 
-        <circle cx="1060" cy="80" r="7" fill="#ffffff" opacity="0.25" filter="url(#glow)">
+        <circle cx="1060" cy="80" r="7" fill="#00ff00" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -6259,7 +6259,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="1060" cy="80" r="4" fill="#ffffff">
+        <circle cx="1060" cy="80" r="4" fill="#00ff00">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
@@ -6268,7 +6268,7 @@
         </circle>
         
 
-        <circle cx="1060" cy="100" r="7" fill="#ff0000" opacity="0.25" filter="url(#glow)">
+        <circle cx="1060" cy="100" r="7" fill="#00ff00" opacity="0.25" filter="url(#glow)">
           <animate attributeName="opacity"
                    values="0.2;1;0.4"
                    dur="1.8s"
@@ -6276,7 +6276,7 @@
                    repeatCount="indefinite" />
         </circle>
 
-        <circle cx="1060" cy="100" r="4" fill="#ff0000">
+        <circle cx="1060" cy="100" r="4" fill="#00ff00">
           <animate attributeName="opacity"
                    values="0.3;1;0.6"
                    dur="1.8s"
